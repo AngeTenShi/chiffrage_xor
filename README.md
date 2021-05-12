@@ -1,2 +1,2 @@
-# chiffrage_xor
+# XOR Encryption
 XOR Python
