@@ -1,2 +1,2 @@
 # XOR Encryption
-XOR Python
+Mon implémentation en python du chiffrage symétrique XOR 
